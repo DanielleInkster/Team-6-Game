@@ -52,4 +52,4 @@ https://medium.com/team-6
 ## How does it work?
 - _Still images from our final presentation_
 
-![1](images/1.png)
+![1](images/1.png =100x100)
