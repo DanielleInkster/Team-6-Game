@@ -51,5 +51,5 @@ https://medium.com/team-6
 
 ## How does it work?
 - _Still images from our final presentation_
+<img src="images/1.png" width="100" height="200" />
 
-![1](images/1.png |width=100)
