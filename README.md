@@ -48,3 +48,8 @@ https://medium.com/team-6
 ⚙️ Xcode v11.2  
 ⚙️ XCTest framework  
 ⚙️ Travis CI  
+
+## How does it work?
+- _Still images from our final presentation_
+
+![1](images/1.png)
