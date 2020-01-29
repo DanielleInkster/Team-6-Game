@@ -6,8 +6,8 @@
   <a href="#card-wall">Card Wall</a> •
   <a href="#team-blog">Team Blog</a> •
   <a href="#quickstart">Quickstart</a> •
-  <a href="#technologies-used">Technologies Used</a>
-  <a href="#how-does-it-work?">How does it work?</a>
+  <a href="#technologies-used">Technologies Used</a> •
+  <a href="#how-it-works">How it Works</a>
 </p>
 
 📝 A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift. We hope you enjoy a challenge as much as us; you're going to need all your problem solving skills to become a Master Detective!
@@ -50,7 +50,7 @@ https://medium.com/team-6
 ⚙️ XCTest framework  
 ⚙️ Travis CI  
 
-## How does it work?
+## How it Works
 - _Still images from our final presentation_
 <div class="imgContainer" float="left">
   1
