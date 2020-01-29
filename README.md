@@ -56,14 +56,17 @@ https://medium.com/team-6
 <img src="images/1.png" width="400" height="300" />
   2
 <img src="images/2.png" width="400" height="300" />
+  <br>
   3
 <img src="images/3.png" width="400" height="300" />
   4
 <img src="images/4.png" width="400" height="300" />
+  <br>
   5
 <img src="images/5.png" width="400" height="300" />
   6
 <img src="images/6.png" width="400" height="300" />
+  <br>
   7
 <img src="images/7.png" width="400" height="300" />
   </div>
