@@ -24,18 +24,21 @@ class Game{
     }
     
     func changeTitle() {
-         if score < 5 {
-            title = "Novice Detective"
-        } else if score >= 5  && score < 11{
-            title = "Junior Detective"
-        } else if score >= 11 && score < 17 {
-            title = "Detective"
-        } else if score >= 17 && score < 22 {
-            title = "Senior Detective"
-        } else if score >= 22 {
-            title = "Master Detective"
-            }
+      switch score {
+        case ...3:
+          title = "Novice Detective"
+        case 4...8:
+          title = "Junior Detective"
+        case 9...12:
+          title = "Detective"
+        case 13...19:
+          title = "Senior Detective"
+         case 20...:
+           title = "Master Detective"
+         default:
+           title = "Error"
         }
+    }
     
     func wrongAnswer() {
         if turnScore == turnMin {
