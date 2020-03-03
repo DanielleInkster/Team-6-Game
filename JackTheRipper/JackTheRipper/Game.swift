@@ -1,5 +1,7 @@
 //  Game.swift
 //  JackTheRipper
+//
+//  Created by Danielle Inkster on 2019-11-26.
 //  Copyright © 2019 Team6. All rights reserved.
 //
 
