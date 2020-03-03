@@ -1,7 +1,5 @@
-//
 //  Game.swift
 //  JackTheRipper
-//
 //  Copyright © 2019 Team6. All rights reserved.
 //
 
